@@ -1,5 +1,6 @@
 function Home (){
-    return <h1>é o inmap esqueça tudo  !</h1>
+    return <html>Teste do primeiro deploy do curso.dev  !</html>
 }
 
 export default Home;
+
